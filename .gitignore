@@ -9,7 +9,7 @@ __pycache__/
 *.sqlite3   
 *.db
 *.bak
-*.doc
+*.docx
 *.tmp
 *.swp
 *.swo
