@@ -1,5 +1,5 @@
 #21 create two variables, name = your name and age = your age. user print to dispay: My name is _ and I am _ years old.
-name = "Laura Collins"
+name = input
 age = 25
 print(f"My name is {name} and I am {age} years old.")
 #22 Let num = 17 and divisor = 5. compute the remainer using % and print:
